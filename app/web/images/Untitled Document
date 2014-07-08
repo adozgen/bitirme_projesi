@@ -1,0 +1,550 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Untitled Document</title>
+
+<link href="Untitled%20Document_files/css.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+var arr=new Array();
+var arr_skool=new Array();
+arr[0]=new Image;arr[0].src="uploads/featuredskools/Autumn Leaves.jpg";arr_skool[0]=79;arr[1]=new Image;arr[1].src="uploads/featuredskools/Desert Landscape.jpg";arr_skool[1]=78;count=2;function slideshow(id)
+{
+	if(id==count)
+			 id=0;
+	skoolid=arr_skool[id];
+	document.getElementById("slideshow").src=arr[id].src;
+	id=((id+11)*17+12)%count;
+	window.setTimeout("slideshow("+id+")",2000);
+}
+-->
+</script>
+<script language="JavaScript" src="Untitled%20Document_files/mm_menu.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link type="text/css" href="Untitled%20Document_files/jquery-ui-1.css" rel="stylesheet"><style type="text/css">
+			/*demo page css*/
+			/*body{ font: 62.5% "Trebuchet MS", sans-serif; margin: 50px;}
+*/
+			.demoHeaders { margin-top: 2em; }
+			#dialog_link {padding: .4em 1em .4em 20px;text-decoration: none;position: relative;}
+			#dialog_link span.ui-icon {margin: 0 5px 0 0;position: absolute;left: .2em;top: 80%;margin-top: -8px;}
+			ul#icons {margin: 0; padding: 0;}
+			ul#icons li {margin: 2px; position: relative; padding: 4px 0; cursor: pointer; float: left;  list-style: none;}
+			ul#icons span.ui-icon {float: left; margin: 0 4px;}
+		</style></head><body onload="javascript:slideshow(0)">
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); width: 145px; height: 90px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 0px; top: 0px; height: 90px; width: 145px;" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 0px; top: 0px; height: 90px; width: 145px;">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText0" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Who&nbsp;we&nbsp;are&nbsp;</div>
+<div id="menuItemHilite0" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Who&nbsp;we&nbsp;are&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 13px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText1" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Services&nbsp;</div>
+<div id="menuItemHilite1" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Services&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 26px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText2" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Contact&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite2" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Contact&nbsp;Us&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 39px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText3" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Enquiry&nbsp;</div>
+<div id="menuItemHilite3" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Enquiry&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 52px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText4" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Faq's&nbsp;</div>
+<div id="menuItemHilite4" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Faq's&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 65px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText5" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Terms&nbsp;&amp;&nbsp;Conditions&nbsp;</div>
+<div id="menuItemHilite5" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Terms&nbsp;&amp;&nbsp;Conditions&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 78px; font-family: Tahoma; font-size: 11px; width: 145px; height: 13px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText6" style="position: absolute; left: 2px; top: 0px; color: rgb(255, 255, 255);">Privacy&nbsp;Policies&nbsp;</div>
+<div id="menuItemHilite6" style="position: absolute; left: 2px; top: 0px; color: rgb(0, 0, 0); visibility: hidden;">Privacy&nbsp;Policies&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); width: 75px; height: 33px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 0px; top: 0px; height: 33px; width: 75px;" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 0px; top: 0px; height: 33px; width: 75px;">
+<div id="menuItem7" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma; font-size: 11px; width: 75px; height: 17px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText7" style="position: absolute; left: 4px; top: 2px; color: rgb(255, 255, 255);">Australia&nbsp;</div>
+<div id="menuItemHilite7" style="position: absolute; left: 4px; top: 2px; color: rgb(0, 0, 0); visibility: hidden;">Australia&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 17px; font-family: Tahoma; font-size: 11px; width: 75px; height: 17px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText8" style="position: absolute; left: 4px; top: 2px; color: rgb(255, 255, 255);">USA&nbsp;</div>
+<div id="menuItemHilite8" style="position: absolute; left: 4px; top: 2px; color: rgb(0, 0, 0); visibility: hidden;">USA&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); width: 104px; height: 16px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 0px; top: 0px; height: 16px; width: 104px;" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 0px; top: 0px; height: 16px; width: 104px;">
+<div id="menuItem9" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma; font-size: 11px; width: 104px; height: 17px; background-color: rgb(111, 153, 71); visibility: inherit;"><div id="menuItemText9" style="position: absolute; left: 4px; top: 2px; color: rgb(255, 255, 255);">Search&nbsp;News&nbsp;</div>
+<div id="menuItemHilite9" style="position: absolute; left: 4px; top: 2px; color: rgb(0, 0, 0); visibility: hidden;">Search&nbsp;News&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="50%"><img src="Untitled%20Document_files/logo1.jpg" height="70" width="410"></td>
+<td align="right" valign="bottom" width="50%">
+<img src="Untitled%20Document_files/ad1.jpg" height="60" width="410"></td>
+</tr>
+</tbody></table>
+</td>
+      </tr>
+      <tr>
+        <td><form action="./" method="post" name="form1" id="options_form">
+<input name="opt" value="" type="hidden">
+<input name="show_news" type="hidden">
+<input name="show_blog" type="hidden">
+<input name="show_poll" type="hidden">
+<input name="show_month_year" type="hidden">
+<input name="show_skool" type="hidden">
+<input name="show_exam" type="hidden">
+</form>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td align="right" width="1%"><img src="Untitled%20Document_files/menucury1.jpg" height="30" width="11"></td>
+<td background="Untitled%20Document_files/menu.jpg" width="98%">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+        <td width="76%">
+		<table border="0" cellpadding="0" cellspacing="0">	
+  	        <tbody><tr>
+        	<td class="menu" onmouseover="this.className='menu-hover'" onmouseout="this.className='menu'" align="center" height="30" width="80"><a href="javascript:void(0)" onclick="editme('mso')">Home</a></td>
+       		<td class="menu" onmouseover="this.className='menu-hover'" onmouseout="this.className='menu'" align="center" width="92"><a href="javascript:void(0)" name="link5" id="link1" onmouseover="MM_showMenu(window.mm_menu_0427134603_0,0,22,null,'link5')" onmouseout="MM_startTimeout();" onclick="editme('abu')">About Us</a></td>
+       		<td class="menu1" onmouseover="this.className='menu-hover1'" onmouseout="this.className='menu1'" align="center" width="123"><a href="javascript:void(0)" onclick="editme('car')">Career Resource</a></td>
+       		<td class="menu1" onmouseover="this.className='menu-hover1'" onmouseout="this.className='menu1'" align="center" width="113"><a href="javascript:void(0)" onclick="editme('ski')">&nbsp;&nbsp;Skool Groups &nbsp;</a></td>
+		<td class="menu1" onmouseover="this.className='menu-hover1'" onmouseout="this.className='menu1'" align="center" width="113"><a href="javascript:void(0)" onclick="editme('exin')">&nbsp;Exam Tabs &nbsp;&nbsp;</a></td>
+       		<td class="menu1" onmouseover="this.className='menu-hover1'" onmouseout="this.className='menu1'" align="center" width="113"><a href="javascript:void(0)" name="link2" id="link3" onclick="editme('ska')" onmouseover="MM_showMenu(window.mm_menu_0427135207_0,0,22,null,'link2')" onmouseout="MM_startTimeout();">Skools Abroad&nbsp;</a></td>
+       		<td class="menu" onmouseover="this.className='menu-hover'" onmouseout="this.className='menu'" align="center" width="88"><a href="javascript:void(0)" name="link6" id="link4" onclick="editme('skn')" onmouseover="MM_showMenu(window.mm_menu_0427135440_0,0,22,null,'link6')" onmouseout="MM_startTimeout();">Skool News</a></td>
+       		<td class="menu" onmouseover="this.className='menu-hover'" onmouseout="this.className='menu'" align="center" width="100"><a href="javascript:void(0)" onclick="editme('cou')">Contact Us </a></td>
+		<td class="menu" onmouseover="this.className='menu-hover'" onmouseout="this.className='menu'" align="center" width="100"><a href="javascript:void(0)" onclick="editme('ssr')">Search </a></td>
+		</tr>
+       		</tbody></table>
+	</td>
+	       	</tr>
+       	</tbody></table>
+</td>
+<td width="1%"><img src="Untitled%20Document_files/menucurv.jpg" height="30" width="12"></td>
+</tr>
+</tbody></table>
+</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td valign="top" width="23%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<form action="check.php" method="post"></form>
+                  				<tbody><tr>
+                    				<td width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+                    				<td background="Untitled%20Document_files/03.jpg" width="98%"><span class="text">Skool Gate </span></td>
+                    				<td width="1%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+                  				</tr>
+                  				<tr>
+                    				<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+                				<td height="200">
+													
+							<table border="0" cellpadding="0" cellspacing="0" height="180" width="100%">
+							<tbody><tr>
+                        				<td class="login" width="37%">E mail Id </td>
+                        				<td width="63%"><label>
+                          				<input name="email" size="15" type="text">
+                        				</label></td>
+                      					</tr>
+                      					<tr>
+                        				<td class="login">Password</td>
+                        				<td height="25"><input name="password" size="15" type="password"></td>
+                      					</tr>
+                      					<tr>
+                        				<td colspan="2" class="menutext" align="center" height="28"><input value="Submit" type="submit"></td>
+                      					</tr>
+                      					<tr>
+                        				<td colspan="2" class="login" align="center">Forgot Password?</td>
+                      					</tr>
+                     					<tr>
+                        				<td colspan="2" class="login" bgcolor="#85b24d" height="1"></td>
+                      					</tr>
+                      					<tr>
+                        				<td colspan="2" class="login" height="20">Don’t have a skool pass?<br>
+                          				Click <strong><input value="join" onclick="javascript:window.open('register.php','def','scrollbars=yes,resizeable=no,menubar=no,width=600px,height=400,top=200px,left=340px')" type="button"><div id="register" ;style="Position:absolute" ;=""></div></strong> to Get it Now</td>
+                      					</tr>
+		      					
+                    					</tbody></table>
+						</td>
+                    				<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+                  				</tr>
+                  				<tr>
+                    					<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+ 				                        <td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+			                                <td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+                 			        </tr>
+                				</tbody></table>
+</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+<td background="Untitled%20Document_files/03.jpg" width="98%"><span class="text">Skool Calender</span></td>
+<td width="1%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+</tr>
+<tr>
+<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+<td><script>
+function editme_show_month_year(mon,year,c)
+{
+	if(c==1)
+	{
+		mon=mon-1;
+		if(mon==0)
+		{
+			mon=12;
+			year=year-1;
+		}
+	}
+	else if(c==2)
+	{
+		mon=mon+1;
+		if(mon==13)
+		{
+			$mon=1;
+			year=year+1;
+		}
+	}
+	else if(c==3)
+		year=year-1;
+	else if(c==4)
+		year=year+1;
+	var str=mon+'_'+year;
+	document.getElementById("options_form").show_month_year.value=str;
+	editme("mso");
+}	
+</script>
+<center><table border="0" height="60%" width="70%"><tbody><tr><td><table border="0" height="100%" width="100%"><tbody><tr><td>	<table border="1" cellspacing="0" width="100%"><tbody><tr><td><a href="javascript:void(0)" onclick="editme_show_month_year(6,2009,1)"><img src="Untitled%20Document_files/left_arrow.gif" border="0"></a></td><td colspan="5" align="center"><table border="0"><tbody><tr><td><a href="javascript:void(0)" onclick="editme_show_month_year(6,2009,3)"><img src="Untitled%20Document_files/up_arrow.gif" border="0"></a></td><td class="poll"><b>JUN-2009</b></td><td><table border="0"><tbody><tr></tr><tr><td><a href="javascript:void(0)" onclick="editme_show_month_year(6,2009,4)"><img src="Untitled%20Document_files/down_arrow.gif" border="0"></a></td></tr></tbody></table></td></tr></tbody></table></td><td align="right"><a href="javascript:void(0)" onclick="editme_show_month_year(6,2009,2)"><img src="Untitled%20Document_files/right_arrow.gif" border="0"></a></td></tr></tbody></table>
+	</td></tr><tr><td><table class="calender" bgcolor="white" border="1" cellpadding="2" cellspacing="0"><tbody><tr bgcolor="#c0c0c0"><th width="14%">Sun</th><th width="14%">Mon</th><th width="14%">Tue&nbsp;</th><th width="14%">Wed</th><th width="14%">Thu&nbsp;</th><th width="14%">Fri&nbsp;</th><th width="14%">Sat&nbsp;</th></tr><tr class="blog"><td></td><td align="center" bgcolor=""><center><div id="01-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=01-06-2009&amp;title=show_all&amp;uid=">1</a></div></center></td><td align="center" bgcolor=""><center><div id="02-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=02-06-2009&amp;title=show_all&amp;uid=">2</a></div></center></td><td align="center" bgcolor=""><center><div id="03-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=03-06-2009&amp;title=show_all&amp;uid=">3</a></div></center></td><td align="center" bgcolor=""><center><div id="04-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=04-06-2009&amp;title=show_all&amp;uid=">4</a></div></center></td><td align="center" bgcolor=""><center><div id="05-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=05-06-2009&amp;title=show_all&amp;uid=">5</a></div></center></td><td align="center" bgcolor=""><center><div id="06-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=06-06-2009&amp;title=show_all&amp;uid=">6</a></div></center></td></tr><tr class="blog" bgcolor="#e2e2e2"><td align="center" bgcolor="#e2e2e2"><center><div id="07-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=07-06-2009&amp;title=show_all&amp;uid=">7</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="08-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=08-06-2009&amp;title=show_all&amp;uid=">8</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="09-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=09-06-2009&amp;title=show_all&amp;uid=">9</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="10-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=10-06-2009&amp;title=show_all&amp;uid=">10</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="11-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=11-06-2009&amp;title=show_all&amp;uid=">11</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="12-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=12-06-2009&amp;title=show_all&amp;uid=">12</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="13-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=13-06-2009&amp;title=show_all&amp;uid=">13</a></div></center></td></tr><tr class="blog" bgcolor="#ffffff"><td align="center" bgcolor="#ffffff"><center><div id="14-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=14-06-2009&amp;title=show_all&amp;uid=">14</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="15-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=15-06-2009&amp;title=show_all&amp;uid=">15</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="16-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=16-06-2009&amp;title=show_all&amp;uid=">16</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="17-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=17-06-2009&amp;title=show_all&amp;uid=">17</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="18-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=18-06-2009&amp;title=show_all&amp;uid=">18</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="19-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=19-06-2009&amp;title=show_all&amp;uid=">19</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="20-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=20-06-2009&amp;title=show_all&amp;uid=">20</a></div></center></td></tr><tr class="blog" bgcolor="#e2e2e2"><td align="center" bgcolor="#e2e2e2"><center><div id="21-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=21-06-2009&amp;title=show_all&amp;uid=">21</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="22-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=22-06-2009&amp;title=show_all&amp;uid=">22</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="23-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=23-06-2009&amp;title=show_all&amp;uid=">23</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="24-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=24-06-2009&amp;title=show_all&amp;uid=">24</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="25-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=25-06-2009&amp;title=show_all&amp;uid=">25</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="26-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=26-06-2009&amp;title=show_all&amp;uid=">26</a></div></center></td><td align="center" bgcolor="#e2e2e2"><center><div id="27-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=27-06-2009&amp;title=show_all&amp;uid=">27</a></div></center></td></tr><tr class="blog" bgcolor="#ffffff"><td align="center" bgcolor="#ffffff"><center><div id="28-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=28-06-2009&amp;title=show_all&amp;uid=">28</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="29-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=29-06-2009&amp;title=show_all&amp;uid=">29</a></div></center></td><td align="center" bgcolor="#ffffff"><center><div id="30-06-2009;style='Position:absolute';" top:300px;left:50px;=""><a href="http://127.0.0.1/skoolstation/target.php?msg=30-06-2009&amp;title=show_all&amp;uid=">30</a></div></center></td></tr></tbody></table></td></tr></tbody></table><br></td></tr></tbody></table></center></td>
+<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+</tr>
+<tr>
+<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+<td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+</tr>
+</tbody></table>
+</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+<td background="Untitled%20Document_files/03.jpg" width="98%"><span class="text">Skool News</span></td>
+<td width="1%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+</tr>
+<tr>
+<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+<td>
+	<script>
+function editme_shownews(cid)
+{
+	document.getElementById("options_form").show_news.value=cid;
+	editme("skn");
+}	
+</script>
+<br><table cellpadding="1" cellspacing="0">			<tbody><tr bgcolor="#ffffff"><td padding="30px" width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_shownews(5)">Jai Ho</a></td></tr>
+						<tr bgcolor="#ffffff"><td padding="30px" width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_shownews(4)">India Won</a></td></tr>
+						<tr bgcolor="#ffffff"><td padding="30px" width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_shownews(3)">India in aaction</a></td></tr>
+						<tr bgcolor="#ffffff"><td padding="30px" width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_shownews(1)">India won with 6  wickets</a></td></tr>
+			<tr>
+<td colspan="2" class="text1" align="right">
+<a href="javascript:void(0)" onclick="editme('skn')">View All News</a></td></tr>
+</tbody></table>
+</td>
+<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+</tr>
+<tr>
+<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+<td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+</tr>
+</tbody></table>
+</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><img src="Untitled%20Document_files/banner.jpg" height="140" width="200"></td>
+              </tr>
+            </tbody></table></td>
+            <td valign="top" width="2%">&nbsp;</td>
+            <td valign="top" width="50%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td valign="top" width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+	<td class="text" background="Untitled%20Document_files/03.jpg" width="94%">Skool Search
+	</td>
+        <td width="3%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+	</tr>
+        <tr>
+	<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+	<td height="200" valign="top">
+
+	
+		
+		
+			
+		<script type="text/javascript" src="Untitled%20Document_files/jquery-1.js"></script>
+		<script type="text/javascript" src="Untitled%20Document_files/jquery-ui-1.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				$('#tabs').tabs();
+	
+
+				$('#dialog_link, ul#icons li').hover(
+					function() { $(this).addClass('ui-state-hover'); }, 
+					function() { $(this).removeClass('ui-state-hover'); }
+				);
+				
+			});
+		</script>
+			
+	
+	<font size="1">
+		<div class="ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs">
+			<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+				<li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Career Options</a></li>
+				<li class="ui-state-default ui-corner-top"><a href="#tabs-2">Countries</a></li>
+				<li class="ui-state-default ui-corner-top"><a href="#tabs-3">Most Searched</a></li>
+				<li class="ui-state-default ui-corner-top"><a href="#tabs-4">Top Skools</a></li>
+				<li class="ui-state-default ui-corner-top"><a href="#tabs-5">Search</a></li>			
+			</ul>
+			<div id="tabs-1" class="blog ui-tabs-panel ui-widget-content ui-corner-bottom"><!--Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequatLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat-->
+									<img src="Untitled%20Document_files/bullet.gif">
+						<font size="2"><b><a href="javascript:void(0)" onclick="">Bachelor of Technology</a><br></b></font>						<img src="Untitled%20Document_files/bullet.gif">
+						<font size="2"><b><a href="javascript:void(0)" onclick="">Animation,MultiMedia</a><br></b></font>						<img src="Untitled%20Document_files/bullet.gif">
+						<font size="2"><b><a href="javascript:void(0)" onclick="">Banking &amp; Finance, Accounting</a><br></b></font>						<img src="Untitled%20Document_files/bullet.gif">
+						<font size="2"><b><a href="javascript:void(0)" onclick="">Information Technology</a><br></b></font>						<img src="Untitled%20Document_files/bullet.gif">
+						<font size="2"><b><a href="javascript:void(0)" onclick="">Media, Films, Mass Communications</a><br></b></font>						<img src="Untitled%20Document_files/bullet.gif">
+						<font size="2"><b><a href="javascript:void(0)" onclick="">Professional Courses</a><br></b></font>			</div>
+			<div id="tabs-2" class="blog ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"><!--Phasellus mattis tincidunt nibh. Cras orci urna, blandit id, pretium vel, aliquet ornare, felis. Maecenas scelerisque sem non nisl. Fusce sed lorem in enim dictum bibendum.-->
+								<img src="Untitled%20Document_files/bullet.gif">
+					<font size="2"><b><a href="javascript:void(0)" onclick="">Afghanisthan</a><br></b></font>					<img src="Untitled%20Document_files/bullet.gif">
+					<font size="2"><b><a href="javascript:void(0)" onclick="">India</a><br></b></font>					<img src="Untitled%20Document_files/bullet.gif">
+					<font size="2"><b><a href="javascript:void(0)" onclick="">America</a><br></b></font>					<img src="Untitled%20Document_files/bullet.gif">
+					<font size="2"><b><a href="javascript:void(0)" onclick="">Australia</a><br></b></font>					<img src="Untitled%20Document_files/bullet.gif">
+					<font size="2"><b><a href="javascript:void(0)" onclick="">pakistan</a><br></b></font>					<img src="Untitled%20Document_files/bullet.gif">
+					<font size="2"><b><a href="javascript:void(0)" onclick="">China</a><br></b></font>			</div>
+			<div id="tabs-3" class="blog ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"><!--Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.-->
+								<img src="Untitled%20Document_files/bullet.gif">
+					<a href="http://127.0.0.1/skoolstation/skoolinformation.php?skoolid=79">Ansal Institute of Technology</a><br>					<img src="Untitled%20Document_files/bullet.gif">
+					<a href="http://127.0.0.1/skoolstation/skoolinformation.php?skoolid=88">International Institute of Technology</a><br>					<img src="Untitled%20Document_files/bullet.gif">
+					<a href="http://127.0.0.1/skoolstation/skoolinformation.php?skoolid=78">Delhi Public School</a><br>			</div>
+			<div id="tabs-4" class="blog ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"><!--Nam dui erat, auctor a, dignissim quis, sollicitudin eu, felis. Pellentesque nisi urna, interdum eget, sagittis et, consequat vestibulum, lacus. Mauris porttitor ullamcorper augue.-->
+								<img src="Untitled%20Document_files/bullet.gif">
+					<a href="http://127.0.0.1/skoolstation/skoolinformation.php?skoolid=">Ansal Institute of Technology</a><br>					<img src="Untitled%20Document_files/bullet.gif">
+					<a href="http://127.0.0.1/skoolstation/skoolinformation.php?skoolid=">Delhi Public School</a><br>					<img src="Untitled%20Document_files/bullet.gif">
+					<a href="http://127.0.0.1/skoolstation/skoolinformation.php?skoolid=">International Institute of Technology</a><br>			</div>
+			<div class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" id="tabs-5">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	      	<tbody><tr>
+                <td width="24%">Skool Search </td>
+                <td width="76%">
+		<form action="./" method="post"><input name="opt" value="ssr" type="hidden"><input name="search" type="text"><input value="Go" name="go" type="submit"></form>
+		</td>
+		</tr>
+        	</tbody></table>
+			</div>
+		</div>
+
+	</font>
+</td>
+	<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+	</tr>
+        <tr>
+	<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+	<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+        <td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+</tr>
+</tbody></table>
+		</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+<td class="text" background="Untitled%20Document_files/03.jpg" width="94%">Exam Search
+						</td>
+                    				<td width="3%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+			                        </tr>
+                  				<tr>
+			                        <td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+			                        <td class="blog" height="200" valign="top">
+		<img src="Untitled%20Document_files/bullet.gif">
+		All INdia Engineering Entrance Exam<br>		<img src="Untitled%20Document_files/bullet.gif">
+		mba<br>		<img src="Untitled%20Document_files/bullet.gif">
+		mca<br>		<img src="Untitled%20Document_files/bullet.gif">
+		mbbs<br>		<img src="Untitled%20Document_files/bullet.gif">
+		icet<br>		<img src="Untitled%20Document_files/bullet.gif">
+		iit-jam<br>		<img src="Untitled%20Document_files/bullet.gif">
+		eamcet<br>		<img src="Untitled%20Document_files/bullet.gif">
+		Jipmer<br>		<img src="Untitled%20Document_files/bullet.gif">
+		aiims<br></td>
+<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+</tr>
+                  				<tr>
+			                        <td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+                    				<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+			                        <td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+                  				</tr>
+</tbody></table>
+		</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td valign="top" width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+	<td class="text" background="Untitled%20Document_files/03.jpg" width="94%">Skool Blogs
+	</td>
+        <td width="3%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+	</tr>
+        <tr>
+	<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+	<td valign="top"><script>
+function editme_showblog(cid)
+{
+	document.getElementById("options_form").show_blog.value=cid;
+	editme("skb");
+}	
+</script>
+<table border="0" cellspacing="0">				<tbody><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(16)">sdvf</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(13)">Test Blog</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(6)">my luck</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(5)">rahul is a fool</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(4)">my name is ravi</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(3)">change</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(2)">HIS LIFE</a></td>
+							</tr><tr bgcolor="#ffffff"><td width="1%"><img src="Untitled%20Document_files/bullet.gif"></td><td class="blog" width="99%"><a href="javascript:void(0)" onclick="editme_showblog(1)">my existence</a></td>
+			</tr><tr><td colspan="2" class="text1" align="right"><a href="javascript:void(0)" onclick="editme('skb')">View All blogs</a></td></tr>
+</tbody></table>
+</td>
+	<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+	</tr>
+        <tr>
+	<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+	<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+        <td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+</tr>
+</tbody></table></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><img src="Untitled%20Document_files/ad.jpg" height="200" width="475"></td>
+              </tr>
+              <tr>
+                <td align="center"><img src="Untitled%20Document_files/atm.jpg" height="37" width="453"></td>
+              </tr>
+            </tbody></table></td>
+            <td valign="top" width="2%">&nbsp;</td>
+            <td valign="top" width="23%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td><script>
+function editme_showskool(val,cid)
+{
+	document.getElementById("options_form").show_skool.value=val;
+	editme(cid);
+}
+function open_image()
+{
+	editme_showskool(skoolid,'ski');
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+<td background="Untitled%20Document_files/03.jpg" width="98%"><span class="text">Featured Skools</span></td>
+<td width="1%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+</tr>
+<tr>
+<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+<td height="150">&nbsp;<a href="javascript:void(0)" onclick="javascript:open_image()"><img src="Untitled%20Document_files/Desert%2520Landscape.jpg" id="slideshow" height="180" width="300"></a></td>
+<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+</tr>
+<tr>
+<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+<td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+</tr>
+</tbody></table>
+</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="1%"><img src="Untitled%20Document_files/02.jpg" height="23" width="16"></td>
+<td background="Untitled%20Document_files/03.jpg" width="98%"><span class="text">Polls</span></td>
+<td width="1%"><img src="Untitled%20Document_files/01.jpg" height="23" width="14"></td>
+</tr>
+<tr>
+<td background="Untitled%20Document_files/left-line.jpg">&nbsp;</td>
+<td height="150">&nbsp;
+		<center><input name="opt" value="por" type="hidden"><input name="pollid" value="11" type="hidden"><br>
+	<table border="0"><tbody><tr><td align="left">What is your Opinion on Ragging</td></tr>
+	<form action="./" method="post"></form><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="opt_chosen" value="0" type="radio">Required</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="opt_chosen" value="1" type="radio">Not Required</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="opt_chosen" value="2" type="radio">Cant Say</td></tr><tr><td align="center"><input value="Vote" name="vote" type="submit"></td></tr><tr><td colspan="2" class="text1" align="right"><a href="javascript:void(0)" onclick="editme('mpr')">View All polls</a></td></tr></tbody></table>
+</center></td>
+<td background="Untitled%20Document_files/right-line.jpg">&nbsp;</td>
+</tr>
+<tr>
+<td><img src="Untitled%20Document_files/middle.jpg" height="20" width="16"></td>
+<td background="Untitled%20Document_files/home1_37.jpg">&nbsp;</td>
+<td><img src="Untitled%20Document_files/middle2.jpg" height="20" width="13"></td>
+</tr>
+</tbody></table>
+</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center" height="180"><img src="Untitled%20Document_files/adds1.jpg" height="148" width="141"></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><img src="Untitled%20Document_files/banner1.jpg" height="210" width="200"></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+<!--<td height="50" align="center" class="bottommenu">-->
+<td class="bottommenu" align="center" height="50">
+<a href="javascript:void(0)" onclick="javascript:editme('mso')">Home</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('wwa')">About Us</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('car')">Career Resources</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('ski')">Skool Groups</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('ska')">Skools Abroad</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('skn')">Skool News</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('cou')">Contact Us</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('enq')">Enquiry</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('tc')">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" onclick="javascript:editme('pp')">Privacy Policy</a>
+</td>
+</tr>
+<tr>
+<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+        <td align="right" width="1%"><img src="Untitled%20Document_files/menucury1.jpg" height="30" width="11"></td>
+        <td background="Untitled%20Document_files/menu.jpg" width="99%"><span class="footer">@ All rights are www.skoolstaion.com </span></td>
+        <td align="right" width="1%"><img src="Untitled%20Document_files/menucurv.jpg" height="30" width="11"></td>
+        </tr>
+        </tbody></table>
+</td>
+</tr>
+    </tbody></table>
+</body></html>

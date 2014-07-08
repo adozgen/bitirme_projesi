@@ -1,0 +1,23 @@
+body,.me_entry,.me_entry_status_table_hover,.me_entry_status_table_hover_ie,.me_entry_status_text,.me_entry_status_text_ie,.me_entry_status,.roster_entry,.options_entry_active,.goog-menu{background-color:#FFF!important}
+.me_entry{width:115px!important}
+.me_entry_search{width:143px!important;border-right:1px solid #90A0B7!important;border-color:#8090A7 #90A0B7 #C7D7F2 #C7D7F2!important;margin:4px!important}
+.me_entry_search,.me_entry_status_text,.me_entry_status_text_ie,.me_entry_status_text_hover,.me_entry_status_text_hover_ie,.me_entry_status_hover,.me_dropframe,.me_dropframe_hover{color:#777!important}
+.me_dropframe_hover,.me_entry_status_table_hover,.me_entry_status_table_hover_ie,.me_entry_status_edit,.me_entry_status_edit_ie{border-color:#C7D7F2!important}
+.me_seperator,.me_seperator_ie{border-top-color:#C7D7F2!important}
+.me_entry_status_edit,.me_entry_status_edit_ie{color:#000!important}
+.me_entry_status_link{color:#249!important}
+.roster_entry_hover{background-color:#D4E6FC!important}
+.roster_links,.roster_links_arrow{color:#00C!important}
+.roster_msgs_links{color:#249!important}
+.goog-menu,.goog-menuseparator{border-top-color:#7DACFE!important}
+.goog-menu{color:#000!important}
+.goog-menuitem-highlight{background-color:#7DACFE!important}
+.goog-menuitem-disabled{color:#606060!important}
+.roster_body .menu_container{position:absolute!important;bottom:0!important}
+.me_entry_name{width:124px!important}
+.me_entry_status_table_ie,.me_entry_status_table_hover_ie{width:130px!important}
+.me_seperator_ie,.roster_separator_ie{width:152px!important}
+.roster_entry_name_ie{width:130px!important}
+.roster_buzz_ie{width:150px!important}
+.roster_msgs_entry_ie{width:143px!important}
+#menu_separator{position:relative;top:4px}

@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title>orkut -</title>
+
+
+
+<link rel="SHORTCUT ICON" href="http://img2.orkut.com/favicon.ico" type="image/x-icon">
+<script type="text/javascript">
+var JSHDF = {};
+JSHDF['CGI.POST_TOKEN'] = '663252DC12111515E3145FCFA32F98C5';
+JSHDF['Page.signature.raw'] = 'dR969zUyoSHP1A70c75glhdrKMo=';
+JSHDF['photosLabel'] = 'photos';
+JSHDF['scrapsLabel'] = 'scraps';
+JSHDF['inviteToChat'] = 'invite to chat';
+JSHDF['sendIM'] = 'chat';
+JSHDF['friendsListLabel'] = '\x3C?cs #trans ph TERM ?\x3E\x3Cspan id=\x22inlsearchterm1\x22 style=\x22font-weight:bold\x3B\x22\x3E\x3C\x2Fspan\x3E\x3C?cs #trans \x2Fph ?\x3E in my friends list';
+JSHDF['searchOrkutLabel'] = 'Search for \x3C?cs #trans ph TERM ?\x3E\x3Cspan id=\x22inlsearchterm2\x22 style=\x22font-weight:bold\x3B\x22\x3E\x3C\x2Fspan\x3E\x3C?cs #trans \x2Fph ?\x3E in all orkut';
+JSHDF['searchMyFriendsLabel'] = 'Search for \x3C?cs #trans ph TERM ?\x3E\x3Cspan id=\x22inlsearchterm2\x22 style=\x22font-weight:bold\x3B\x22\x3E\x3C\x2Fspan\x3E\x3C?cs #trans \x2Fph ?\x3E in my friends';
+JSHDF['uid'] = '2709248728867338417';
+JSHDF['home'] = '\x2FHome.aspx';
+JSHDF['main'] = '\x2FMain';
+JSHDF['LinkInterstitial.Label.warning'] = 'Please note that you clicked on a link to a page outside orkut. Sometimes, this may expose your computer to bad or improper content.';
+JSHDF['LinkInterstitial.Label.continue'] = 'continue';
+JSHDF['LinkInterstitial.Label.cancel'] = 'cancel';
+JSHDF['clientHashSeparator'] = '$';
+JSHDF['universalSearchUrl'] = '\x2FUniversalSearch.aspx';
+JSHDF['friendsSearchUrl'] = '\x2FFriendsList.aspx';
+</script>
+<!-- base -->
+<style type="text/css">
+@import url("http://static2.orkut.com/css/gen/base063.css.int");
+@import url("http://static2.orkut.com/css/gen/castroskin028.css.int");
+</style>
+<script src="Main_files/in_frame043.js" type="text/javascript"></script>
+<script src="Main_files/gtalk_client028.js" type="text/javascript"></script>
+<script src="Main_files/ifpc.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<!--
+addWindowLoadHandler(function() {
+initOrkutFrame(true);
+addLatencyExperiment(5001);
+JSHDF['locale'] = 'en-US';
+JSHDF['ifpcJsUrl'] = 'http://static1.orkut.com/ifpc/ifpc.js';
+JSHDF['xpcParams'] = {};
+JSHDF['xpcParams']['ifpcRelay'] = '/ifpc/ifpc_relay';
+JSHDF['xpcParams']['xpcBlank'] = '/xpc/blank';
+JSHDF['xpcParams']['xpcRelay'] = '/xpc/relay001';
+JSHDF['xpcParams']['useXpc'] = true;
+JSHDF['sessionUserJid'] = 'chiru.uday@gmail.com';
+JSHDF['GTALK_closeErrorImage'] = '<img alt="close" title="close" border="0" src="http://static2.orkut.com/img/i_close_float.gif" style="margin:5px" >';
+JSHDF['log_supermole_errors'] = 0;
+JSHDF['talk_js_timeout'] = 90000;
+window['GTalkNotifier'] = null;
+window['GTALK_Client'] = new GTALK_TalkClient([{'type':'DISCONNECTION','innerHtml':'\x3CH2\x3EOops...\x3C\x2FH2\x3E\x0A\x3Cp\x3Echat is offline, but we will try to reconnect you in a few seconds.\x0AIn the meantime, please check your Internet connection.\x3C\x2Fp\x3E\x0A\x3Cp\x3E\x3Ca href=\x22javascript:void(0)\x22 onclick=\x22window.GTALK_Client.hideErrorAlert()\x3Breturn false\x3B\x22\x3Eok, thanks!\x3C\x2Fa\x3E\x3C\x2Fp\x3E\x0A'},{'type':'NO_JS','innerHtml':'\x3CH2\x3Echat disabled\x3C\x2FH2\x3E\x0A\x3Cp\x3EWe\x27re sorry, but the chat server is offline. Please try again in a few minutes.\x3C\x2Fp\x3E\x0A\x3Cp\x3E\x3Ca href=\x22javascript:void(0)\x22 onclick=\x22window.GTALK_Client.hideErrorAlert()\x3Breturn false\x3B\x22\x3Eok, thanks!\x3C\x2Fa\x3E\x3C\x2Fp\x3E\x0A'},{'type':'AUTH','innerHtml':'\x3CH2\x3ESign in to chat\x3C\x2FH2\x3E\x0A\x3Cp\x3EIf you want to enable chat, please\x0A\x3Ca href=\x22javascript:void(0)\x22 onclick=\x22window.GTALK_Client.openTalkSigninPage()\x3Breturn false\x3B\x22\x3E\x0Aclick here\x3C\x2Fa\x3E to sign in.\x3C\x2Fp\x3E\x0A\x3Cp\x3E\x3Ca href=\x22javascript:void(0)\x22 onclick=\x22window.GTALK_Client.hideErrorAlert()\x3Breturn false\x3B\x22\x3E\x0Anot in the mood, thanks!\x3C\x2Fa\x3E\x3C\x2Fp\x3E\x0A'},{'type':'BAD_BROWSER','innerHtml':'\x3CH2\x3Echat disabled\x3C\x2FH2\x3E\x0A\x3Cp\x3EWe\x27re sorry, but orkut doesn\x27t support chat on your browser yet. Please check back soon for news.\x3C\x2Fp\x3E\x0A\x3Cp\x3E\x3Ca href=\x22javascript:void(0)\x22 onclick=\x22window.GTALK_Client.hideErrorAlert()\x3Breturn false\x3B\x22\x3Eok, thanks!\x3C\x2Fa\x3E\x3C\x2Fp\x3E\x0A'},{'type':'BAD_COOKIES','innerHtml':'\x3CH2\x3Echat disabled\x3C\x2FH2\x3E\x0A\x3Cp\x3EWe\x27re sorry, but your browser seems to have cookies disabled. To chat in orkut you need to enable cookies.\x3C\x2Fp\x3E\x0A\x3Cp\x3E\x3Ca href=\x22javascript:void(0)\x22\x3Etell me more.\x3C\x2Fa\x3E\x3C\x2Fp\x3E\x0A'}]);
+window['GTALK_Client'].setPresenceUiHandler(new orkut.gtalk.PresenceUiHandler([{'type':'AVAILABLE','imageUrl':'http:\x2F\x2Fstatic4.orkut.com\x2Fimg\x2Fpres0.gif','label':'available'},{'type':'BUSY','imageUrl':'http:\x2F\x2Fstatic4.orkut.com\x2Fimg\x2Fpres2.gif','label':'busy'},{'type':'CONNECTING','imageUrl':'http:\x2F\x2Fstatic1.orkut.com\x2Fimg\x2FpresOffline.gif','label':'loading'},{'type':'ERROR','imageUrl':'http:\x2F\x2Fstatic4.orkut.com\x2Fimg\x2FpresError.gif','label':'error'},{'type':'IDLE','imageUrl':'http:\x2F\x2Fstatic4.orkut.com\x2Fimg\x2Fpres1.gif','label':'idle'},{'type':'INVISIBLE','imageUrl':'http:\x2F\x2Fstatic1.orkut.com\x2Fimg\x2FpresOffline.gif','label':'invisible'},{'type':'OFFLINE','imageUrl':'http:\x2F\x2Fstatic1.orkut.com\x2Fimg\x2FpresOffline.gif','label':'offline'}]));
+GTALK_loadNotifierScript('http://talkgadget.google.com/talkgadget/notifier-js?silent=true&host=http://talkgadget.google.com/talkgadget/notifier-js', 'http://talkgadget.google.com/talkgadget/', 'http://www.orkut.co.in', JSHDF['xpcParams']);
+});
+//-->
+</script>
+<script type="text/javascript">
+JSHDF['csiServer'] = 'csi.gstatic.com';
+JSHDF['csiServiceName'] = 'orkut';
+JSHDF['csiUseNewReportingMethod'] = '1';
+JSHDF['popoutGtalkError'] = 0;
+JSHDF['displayRoster'] = 1;
+JSHDF['rosterCss'] = 'http://static4.orkut.com/css/talk/gen/roster002.css';
+</script><script src="Main_files/notifier-js"></script></head><body style="overflow: hidden; background-color: rgb(201, 232, 172);" id="mainBody" name="mainBody">
+<div class="fixedPosition" id="gwtViewport">
+<iframe marginwidth="0" marginheight="0" id="orkutFrame" allowtransparency="true" name="orkutFrame" src="" style="" frameborder="0" height="100%" scrolling="auto" width="100%"></iframe>
+<script language="javascript">
+preInitOrkutFrame();
+</script><input name="history_state0" id="history_state0" style="display: none;" type="text">
+<noscript>
+<div id="container">
+<div id="mboxfull" style="margin-top:15px;">
+<table cellpadding="0" cellspacing="0" border="0" class="module"
+><tr><td class="topl_g">
+&nbsp;</td><td class="topr_g" ></td></tr>
+<tr><td class="boxmidlrg" >
+<p>JavaScript must be enabled for you to use Orkut. However, it seems
+JavaScript is either disabled or not supported by your browser. For
+Orkut to work properly, enable JavaScript by changing your browser
+options, then <a href="/Main">try again</a>.</p><br/>
+<p>If you want to use Orkut on a mobile phone or similar device <a
+href="http://m.orkut.com">click here</a>.</p>
+</td><td class="boxmidr" ></td></tr>
+<tr><td class="botl"></td><td class="botr"></td></tr></table>
+</div>
+</div>
+</noscript>
+</div>
+<div id="roster_and_top" class="roster_and_top_hidden">
+<span class="roster_top" style="margin: 0pt 2px; overflow: hidden; display: block; height: 1px; font-size: 1px;"></span>
+<span class="roster_top" style="margin: 0pt 1px; overflow: hidden; display: block; height: 1px; font-size: 1px;"></span>
+<span class="roster_top" style="margin: 0pt; overflow: hidden; display: block; height: 1px; font-size: 1px;"></span>
+<div class="roster_top roster_content" onclick="GTALK_Client.toggleRoster(); return false;" onmouseover="document.getElementById('roster_mm_but').className='roster_button_h';" onmouseout="document.getElementById('roster_mm_but').className='';">
+<div class="roster-presence-bubble">
+<img alt="" src="Main_files/roster_icon.gif" border="0" height="12" width="12">
+</div>
+<div id="roster_control" class="roster_control">
+<div id="roster_mm_but">
+<img style="display: none;" id="roster_minimize" src="Main_files/roster_minimize.gif" class="roster-control" height="16" width="16">
+<img style="display: block;" id="roster_maximize" src="Main_files/roster_maximize.gif" class="roster-control" height="16" width="16">
+</div>
+</div>
+<div class="roster_header" onselectstart="return false;">
+<span style="display: block;" id="roster_online">
+Online friends
+</span>
+<span style="display: none;" id="roster_disconnected">
+Disconnected
+</span>
+</div>
+</div>
+<div id="roster_container" class="roster_top">
+<div style="overflow: hidden; display: block; visibility: hidden; height: 4px;" class="talk_roster" id="talk_roster"><iframe style="height: 153px;" src="Main_files/notifierclient." id="gtn-roster-iframe-id" name="gtn-roster-iframe-id" class="talk_iframe" frameborder="0"></iframe></div></div>
+</div>
+<div style="overflow: hidden; z-index: 3000; width: 1px; position: fixed; right: -10000px; bottom: 0pt;" id="gth-hover-card_m"><iframe src="Main_files/mole." id="gth-hover-card" name="gth-hover-card" style="border: 0px none ; background-color: transparent; width: 100%; height: 100%; overflow-y: hidden; z-index: 3000;" allowtransparency="true" frameborder="0"></iframe></div></body></html>
